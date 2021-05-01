@@ -59,7 +59,14 @@ function App() {
         </div>
       </main>
       <footer>
-        <p>My footer</p>
+       <div className="content has-text-centered mt-5">
+         <div className="columns mt-2 my-footer">
+         <div className="column" ><a href="https://github.com/alexandergiannini" target="_blank"><i className="fab fa-github"></i> GithHub Profile</a></div>
+         <div className="column" ><a href="https://www.linkedin.com/in/alexander-giannini-004345141/" target="_blank"><i class="fab fa-github"></i> Linkedin Profile</a></div>
+         <div className="column" ><a href="https://stackoverflow.com/users/14683781/alexgiannini" target="_blank"><i class="fab fa-github"></i> Stack Overflow Profile</a></div>
+         </div>
+
+       </div>
       </footer>
     </div>
   

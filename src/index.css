@@ -292,3 +292,33 @@ a {
 .navActive {
   color: var(--secondary);
 }
+
+footer {
+  text-align: center;
+  display: inline;
+  position: absolute;
+  bottom: 20;
+  width: 100%;
+  height: 2.5rem; 
+  margin: 350px 1rem;
+}
+
+.portfolio-image {
+  margin: 3%;
+  position: relative;
+}
+
+.portfolio-image-application-url{
+  position: absolute;
+  top: 30px;
+  left: 50px;
+}
+
+.portfolio-image-application-repo{
+  position: absolute;
+  top: 35px;
+  right: 50px;
+}
+
+
+
