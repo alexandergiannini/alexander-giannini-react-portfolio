@@ -18,22 +18,22 @@ function Nav(props) {
     <header className="flex-row px-1">
       <h2>
         <a data-testid="link" href="/">
-          <span role="img" aria-label="camera"> 📸</span> Alexander Giannini
+          <span role="img" aria-label="camera"></span> Alexander Giannini
         </a>
       </h2>
       <nav>
         <ul className="flex-row">
           <li className="mx-2">
-          <span onClick={() => setCurrentPage('About')}>About Me</span>
+          <span className="nav-links" onClick={() => setCurrentPage('About')}>About Me</span>
           </li>
           <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-            <span onClick={() => setCurrentPage('Contact')}>Contact</span>
+            <span className="nav-links" onClick={() => setCurrentPage('Contact')}>Contact</span>
           </li>
           <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-          <span onClick={() => setCurrentPage('Resume')}>Resume</span>
+          <span className="nav-links" onClick={() => setCurrentPage('Resume')}>Resume</span>
           </li>
           <li className={`mx-2 ${contactSelected && 'navActive'}`}>
-          <span onClick={() => setCurrentPage('Portfolio')}>Portfolio</span>
+          <span className="nav-links" onClick={() => setCurrentPage('Portfolio')}>Portfolio</span>
           </li>
           
         </ul>

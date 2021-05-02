@@ -24,7 +24,7 @@ function ContactForm() {
             }
         } else {
             if (!e.target.value.length) {
-              setErrorMessage(`${e.target.name} is required.`);
+              setErrorMessage(`A ${e.target.name} is required in order to submit.`);
             } else {
               setErrorMessage('');
             }
@@ -48,22 +48,22 @@ function ContactForm() {
 
     return (
         <section>
-            <h1>Contact me</h1>
+            <h1>Contact Me</h1>
             <form id="contact-form" onSubmit={handleSubmit}>
                 <div>
-                    <label htmlFor="name">Name:</label>
-                    <input type="text" defaultValue={name} onBlur={handleChange} name="name" />
+                    <label htmlFor="name" className="contact-form-label"></label>
+                    <input type="text" defaultValue={name} onBlur={handleChange} name="name" size="45" className="contact-labels" placeholder="Please enter your name."/>
                 </div>
                 <div>
-                    <label htmlFor="email">Email address:</label>
-                    <input type="email" defaultValue={email} onBlur={handleChange} name="email" />
+                    <label htmlFor="email" className="contact-form-label" size="45"></label>
+                    <input type="email" defaultValue={email} onBlur={handleChange} name="email" size="45" className="contact-labels" placeholder="Please enter your email."/>
                 </div>
                 <div>
-                    <label htmlFor="message">Message:</label>
+                    <label htmlFor="message" className="contact-form-label" ></label>
 
                     
 
-                    <textarea name="message" defaultValue={message} onBlur={handleChange} rows="5" />
+                    <textarea name="message" defaultValue={message} onBlur={handleChange} rows="5" className="contact-labels" placeholder="Please enter a message." />
 
                     {errorMessage && (
   <div>
