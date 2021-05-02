@@ -17,9 +17,11 @@ function Nav(props) {
   return (
     <header className="flex-row px-1">
       <h2>
-        <a data-testid="link" href="/">
-          <span role="img" aria-label="camera"></span> Alexander Giannini
+        <a href="/alexander-giannini-react-portfolio">
+        <span role="img" aria-label="camera" onClick={() => setCurrentPage('Home')}></span> Alexander Giannini
         </a>
+         
+        
       </h2>
       <nav>
         <ul className="flex-row">
