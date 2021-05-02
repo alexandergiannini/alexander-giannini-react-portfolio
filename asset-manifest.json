@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/alexander-giannini-react-portfolio/static/css/main.2452a1a1.chunk.css",
-    "main.js": "/alexander-giannini-react-portfolio/static/js/main.0fcf29fe.chunk.js",
-    "main.js.map": "/alexander-giannini-react-portfolio/static/js/main.0fcf29fe.chunk.js.map",
+    "main.js": "/alexander-giannini-react-portfolio/static/js/main.99e010ac.chunk.js",
+    "main.js.map": "/alexander-giannini-react-portfolio/static/js/main.99e010ac.chunk.js.map",
     "runtime-main.js": "/alexander-giannini-react-portfolio/static/js/runtime-main.e9a20739.js",
     "runtime-main.js.map": "/alexander-giannini-react-portfolio/static/js/runtime-main.e9a20739.js.map",
     "static/js/2.c7759ea1.chunk.js": "/alexander-giannini-react-portfolio/static/js/2.c7759ea1.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.e9a20739.js",
     "static/js/2.c7759ea1.chunk.js",
     "static/css/main.2452a1a1.chunk.css",
-    "static/js/main.0fcf29fe.chunk.js"
+    "static/js/main.99e010ac.chunk.js"
   ]
 }
