@@ -8,6 +8,14 @@ function Portfolio(props) {
     <section>
       <h1>Portfolio</h1>
       <div className="flex-row">
+
+      <div className="portfolio-image">
+        <img src={require('../../assets/small/commercial/7.jpg').default} className="img-thumbnail mx-1">
+        </img>
+        <a href="https://buylocal-3000.herokuapp.com/" target="_blank" className="portfolio-image-application-url">Website</a>
+        <a href="https://github.com/matt-gross-27/buy-local" target="_blank" className="portfolio-image-application-repo">GitHub Repository</a>
+        </div>
+
         <div className="portfolio-image">
         <img src={require('../../assets/small/commercial/0.jpg').default} className="img-thumbnail mx-1">
         </img>
