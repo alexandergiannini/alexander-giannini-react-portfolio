@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/alexander-giannini-react-portfolio/static/css/main.54a5a5e5.chunk.css",
-    "main.js": "/alexander-giannini-react-portfolio/static/js/main.c9ea6308.chunk.js",
-    "main.js.map": "/alexander-giannini-react-portfolio/static/js/main.c9ea6308.chunk.js.map",
-    "runtime-main.js": "/alexander-giannini-react-portfolio/static/js/runtime-main.e02207c3.js",
-    "runtime-main.js.map": "/alexander-giannini-react-portfolio/static/js/runtime-main.e02207c3.js.map",
-    "static/js/2.803e66fe.chunk.js": "/alexander-giannini-react-portfolio/static/js/2.803e66fe.chunk.js",
-    "static/js/2.803e66fe.chunk.js.map": "/alexander-giannini-react-portfolio/static/js/2.803e66fe.chunk.js.map",
-    "static/js/3.b5c54022.chunk.js": "/alexander-giannini-react-portfolio/static/js/3.b5c54022.chunk.js",
-    "static/js/3.b5c54022.chunk.js.map": "/alexander-giannini-react-portfolio/static/js/3.b5c54022.chunk.js.map",
+    "main.js": "/alexander-giannini-react-portfolio/static/js/main.5716cc28.chunk.js",
+    "main.js.map": "/alexander-giannini-react-portfolio/static/js/main.5716cc28.chunk.js.map",
+    "runtime-main.js": "/alexander-giannini-react-portfolio/static/js/runtime-main.e9a20739.js",
+    "runtime-main.js.map": "/alexander-giannini-react-portfolio/static/js/runtime-main.e9a20739.js.map",
+    "static/js/2.11f5f288.chunk.js": "/alexander-giannini-react-portfolio/static/js/2.11f5f288.chunk.js",
+    "static/js/2.11f5f288.chunk.js.map": "/alexander-giannini-react-portfolio/static/js/2.11f5f288.chunk.js.map",
+    "static/js/3.a15a992d.chunk.js": "/alexander-giannini-react-portfolio/static/js/3.a15a992d.chunk.js",
+    "static/js/3.a15a992d.chunk.js.map": "/alexander-giannini-react-portfolio/static/js/3.a15a992d.chunk.js.map",
     "index.html": "/alexander-giannini-react-portfolio/index.html",
     "static/css/main.54a5a5e5.chunk.css.map": "/alexander-giannini-react-portfolio/static/css/main.54a5a5e5.chunk.css.map",
-    "static/js/2.803e66fe.chunk.js.LICENSE.txt": "/alexander-giannini-react-portfolio/static/js/2.803e66fe.chunk.js.LICENSE.txt",
+    "static/js/2.11f5f288.chunk.js.LICENSE.txt": "/alexander-giannini-react-portfolio/static/js/2.11f5f288.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/alexander-giannini-react-portfolio/static/media/0.b18c130d.jpg",
     "static/media/1.jpg": "/alexander-giannini-react-portfolio/static/media/1.c6d04ad2.jpg",
     "static/media/2.jpg": "/alexander-giannini-react-portfolio/static/media/2.8aeddd0b.jpg",
@@ -23,9 +23,9 @@
     "static/media/8.jpg": "/alexander-giannini-react-portfolio/static/media/8.f85f0710.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e02207c3.js",
-    "static/js/2.803e66fe.chunk.js",
+    "static/js/runtime-main.e9a20739.js",
+    "static/js/2.11f5f288.chunk.js",
     "static/css/main.54a5a5e5.chunk.css",
-    "static/js/main.c9ea6308.chunk.js"
+    "static/js/main.5716cc28.chunk.js"
   ]
 }
