@@ -38,7 +38,7 @@ function Resume() {
                 Cucumber
             </li>
             <li className="li-proficiences">
-                Chai.js
+                Chai
             </li>
             <li className="li-proficiences">
                 Docker
